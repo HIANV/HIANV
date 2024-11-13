@@ -25,6 +25,7 @@ Vamos nos conectar! [LinkedIn](https://www.linkedin.com/in/hian-adolfo-2510672ba
     <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logoColor=white" />
     <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
     <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
 
 
 
