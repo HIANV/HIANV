@@ -5,7 +5,7 @@
 - 😄 Pronouns: Ele/Dele
 
 ## 🛠️ Tecnologias e Ferramentas
-- **Linguagens**: Java, Python, HTML, CSS
+- **Linguagens**: Java, Python, HTML, CSS,C#,JS,.Net
 - **Banco de Dados**: SQL
 - **Outras Habilidades**: Git, GitHub
 
