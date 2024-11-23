@@ -1,5 +1,5 @@
 ## Olá me chamo Hian vinicius
-- 🌱 Hoje estou aprendendo java
+- 🌱 Hoje estou sem trabalhar
 - 📫 (Contate me no email: hianvinicius78@gmail.com
 - 😄 Pronouns: Ele/Dele
 
