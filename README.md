@@ -11,6 +11,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HIANV&layout=donut&theme=tokyonight)
 
 
+## 📊 Minhas Estatísticas
+![Metrics](./github-metrics.svg)
 
 
 
