@@ -1,46 +1,50 @@
-## Olá me chamo Hian vinicius
-- 🌱 Hoje estou sem trabalhar
-- 📫 (Contate me no email: hianvinicius78@gmail.com
-- 😄 Pronouns: Ele/Dele
+<h1 align="center">Olá, me chamo Hian Vinicius 👋</h1>
+
+<p align="center">Bem-vindo ao meu perfil! Aqui você pode conhecer um pouco sobre mim e as tecnologias que uso.</p>
+
+<h3 align="center">Minhas linguagens e ferramentas:</h3>
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="31" alt="Java logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="31" alt="Python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="31" alt="HTML5 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="31" alt="CSS3 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="31" alt="JavaScript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="31" alt="MySQL logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="31" alt="MongoDB logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="31" alt="Docker logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="31" alt="Flask logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg" height="31" alt="DevOps logo" />
+  <img width="12" />
+  <img src="https://seeklogo.com/images/N/n8n-logo-5AC2924AA0-seeklogo.com.png" height="31" alt="n8n logo" />
+  <img width="12" />
+  <img src="https://cdn-icons-png.flaticon.com/512/2684/2684027.png" height="31" alt="Automação logo" />
+</div>
 
 
+<h3 align="center">Minhas Estatísticas no GitHub:</h3>
 
-## 📊 Linguagens mais usadas
-
-## 🏆 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HIANV&layout=donut&theme=tokyonight)
-
-
-
-
-
-
-## 🛠️ Tecnologias e Ferramentas
-- **Linguagens**: Java, Python, HTML, CSS,C#,JS,.Net
-- **Banco de Dados**: SQL
-- **Outras Habilidades**: Git, GitHub
-
-
-
-Vamos nos conectar! [LinkedIn](https://www.linkedin.com/in/hian-adolfo-2510672ba/) | [Email](mailto:hianvinicius78@gmail.com)
-
-<p>
-    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-    <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logoColor=white" />
-    <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-    <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-
-
-
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HianV&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HianV&layout=donut&theme=tokyonight" alt="Top Languages" />
 </p>
 
-## 🌱 Atualmente Estou Aprendendo
-- Análise de dados com Python
-- Desenvolvimento web com frameworks modernos
+<h3 align="center">Vamos nos conectar:</h3>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/hian-adolfo-2510672ba/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
+  </a>
+  <a href="mailto:hianvinicius78@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo" />
+  </a>
+</div>
