@@ -3,6 +3,19 @@
 - 📫 (Contate me no email: hianvinicius78@gmail.com
 - 😄 Pronouns: Ele/Dele
 
+
+
+## 📊 Linguagens mais usadas
+
+## 🏆 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HIANV&layout=donut&theme=tokyonight)
+
+
+
+
+
+
+
 ## 🛠️ Tecnologias e Ferramentas
 - **Linguagens**: Java, Python, HTML, CSS,C#,JS,.Net
 - **Banco de Dados**: SQL
