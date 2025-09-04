@@ -25,9 +25,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg" height="31" alt="DevOps logo" />
   <img width="12" />
-  <img src="https://seeklogo.com/images/N/n8n-logo-5AC2924AA0-seeklogo.com.png" height="31" alt="n8n logo" />
-  <img width="12" />
-  <img src="https://cdn-icons-png.flaticon.com/512/2684/2684027.png" height="31" alt="Automação logo" />
+
 </div>
 
 
